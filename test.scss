@@ -1,0 +1,33 @@
+.testimonials{
+    display: flex;
+    flex-direction: row;
+
+}
+.members{
+    width: 600px;
+    height: 430px;
+    background-color: #E0EFF4;
+    margin: 40px;
+    display: flex;
+    flex-direction: row;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 130px;
+    margin-top: 200px;
+    gap: 150px;
+    color: #062A44;
+}
+.swiper{
+    width: 1000px;
+    height: 100%;
+}
+.swiper-button-next, .swiper-rtl .swiper-button-prev{
+    right: 140px !important;
+    left: auto;
+}
+.swiper-button-prev, .swiper-rtl .swiper-button-next{
+    left: 140px !important;
+    right: auto;
+}

@@ -1,0 +1,21 @@
+.spotlight {
+  width: 1140px;
+  height: 900px;
+  background-color: rgba(29, 113, 147, 0.1725490196);
+  margin-left: 165px;
+  margin-top: 40px;
+}
+
+.artist {
+  display: flex;
+  flex-direction: row;
+  margin-left: 40px;
+  padding-top: 40px;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  margin: 40px;
+  margin-top: 40px;
+}/*# sourceMappingURL=spotlight.css.map */

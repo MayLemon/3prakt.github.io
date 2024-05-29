@@ -1,0 +1,28 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  width: 1400px;
+  height: 70px;
+  justify-content: space-between;
+  padding: 10px;
+  font-family: "Inter", sans-serif;
+  font-size: 13pt;
+  color: #073141;
+}
+
+.b-but {
+  margin-top: 20px;
+  height: 37px;
+  border: 1px solid #1D7293;
+  border-radius: 40px;
+  background-color: #1D7293;
+  text-align: center;
+  border-collapse: separate;
+  padding: 10px;
+  padding-bottom: 3px;
+  width: 70px;
+}/*# sourceMappingURL=header.css.map */
